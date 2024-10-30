@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,python,git,github,bash,linux,vscode,php,markdown,wordpress,angular" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,python,git,github,bash,linux,vscode,php,java,wordpress,angular" />
   </a>
 </p>
