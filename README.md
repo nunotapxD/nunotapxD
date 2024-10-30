@@ -2,7 +2,7 @@
 
 	int main(){
  
-    std::string const NUNO = "always learning";
+    std::string const NUNO = "always trying to be better!";
 		
     while (NUNO == "always learning")
        std::cout << "I'm " << NUNO << " in an infinite loop!" << std::endl;
