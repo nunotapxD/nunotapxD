@@ -9,8 +9,8 @@
 
 ## About me
 
-- I study in `42 Porto` and `UMAIA`, after completing the `Piscine`, mainly in `C`. At `UMAIA`, im studiyng in `JAVA`.
-- My other areas of focus are `Design` and `Events Management`.
+- I study in `42 Porto` and `UMAIA`.
+- My other areas are `Design` and `Events Management`.
 - I have three years of work experience in `Graphic Design` and `Events Management`.
 
 ## Skills
